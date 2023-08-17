@@ -3,11 +3,11 @@
 }
 
 body {
-    background-color: aliceblue;
+    background-color: white;
 }
 
-header {
+.header {
     background-color: #F6F6F7;
-    padding: 16px;
+    padding: 8px;
 }
 
