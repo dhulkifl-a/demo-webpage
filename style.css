@@ -12,8 +12,16 @@ body {
 }
 
 .contents {
-    margin: 40px 250px;
+    margin-top: 40px;
+    margin-left: 170px;
+    margin-right: 50px;
     display: flex;
     justify-content: space-between;
-    gap: 60px;
+    gap: 160px;
+}
+
+h3 {
+    margin-top: 0px;
+    font-weight: lighter;
+    font-size: larger;
 }
