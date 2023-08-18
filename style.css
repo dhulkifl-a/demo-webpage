@@ -19,7 +19,9 @@ body {
 
 .contents {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 40px;
 }
 
 h3 {
