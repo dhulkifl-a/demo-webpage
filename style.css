@@ -4,16 +4,17 @@
 
 body {
     background-color: white;
-    margin: 0px;
+    margin: 0;
 }
 
 .header {
-    margin-top: 20px;
+    margin-top: 16px;
     background-color: #F6F6F7;
     padding: 8px;
     font-size: 11px;
     color: #888888;
-
+    margin-left:0 ;
+    margin-right: 0;
 }
 
 .contents {
@@ -21,8 +22,6 @@ body {
     margin-left: 170px;
     margin-right: 50px;
     display: flex;
-    justify-content: space-between;
-    gap: 160px;
 }
 
 h3 {
