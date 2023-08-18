@@ -12,6 +12,8 @@ body {
 }
 
 .contents {
-    margin-top: 40px;
+    margin: 40px 250px;
     display: flex;
+    justify-content: space-between;
+    gap: 60px;
 }
