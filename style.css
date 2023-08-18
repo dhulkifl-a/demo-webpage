@@ -9,6 +9,9 @@ body {
 .header {
     background-color: #F6F6F7;
     padding: 8px;
+    font-size: 11px;
+    color: #888888;
+
 }
 
 .contents {
@@ -24,4 +27,17 @@ h3 {
     margin-top: 0px;
     font-weight: lighter;
     font-size: larger;
+    color: #222222;
+}
+
+hr {
+    border: none;
+    height: 0.1px;
+    background-color: #F6F6F7;
+}
+
+p {
+    font-size: 14px;
+    color: #888888;
+    font-weight: lighter;
 }
